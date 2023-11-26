@@ -16,6 +16,7 @@
 </p>
 
 
+
 ## 安装
 
 代码要求`python>=3.8`，以及`pytorch>=1.7`和`torchvision>=0.8`。请按照[这里](https://pytorch.org/get-started/locally/)的说明安装PyTorch和TorchVision的依赖项。强烈建议安装支持CUDA的PyTorch和TorchVision。
@@ -73,6 +74,7 @@ python scripts/amg.py --checkpoint <path/to/checkpoint> --model-type <model_type
   <img src="assets/notebook1.png?raw=true" width="49.1%" />
   <img src="assets/notebook2.png?raw=true" width="48.9%" />
 </p>
+
 
 
 ## ONNX导出
